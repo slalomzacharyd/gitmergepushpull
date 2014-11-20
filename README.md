@@ -3,7 +3,7 @@ gitmergepushpull
 
 mergepushpull is an addon for git made to improve your workflow by removing one of the most time consuming, repeditous parts of git.  It's fast, easy to use, and free.  
 
-The bulleys example:
+The bulleyes example:
 
 
                       `````````````                                ````````````                    
